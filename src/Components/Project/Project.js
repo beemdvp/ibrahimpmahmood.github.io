@@ -67,7 +67,7 @@ class Project extends Component {
           </div>,
           tags: ['React', 'Sass', 'Github pages'],
           image: react,
-          url: 'http://www.ibrahimpmahmood.github.io'
+          url: 'http://ibrahimpmahmood.github.io'
         }
       ],
     };
