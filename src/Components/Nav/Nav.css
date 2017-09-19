@@ -1,0 +1,17 @@
+.navigation {
+  width: 100%;
+  padding-top: 10px;
+  background-color: #6ebcbc;
+  height: 37px;
+  border-bottom: 1px solid #aaa; }
+  .navigation li {
+    display: inline;
+    color: #ffffff;
+    padding: 10px 10px 10px 10px; }
+  .navigation li:hover {
+    background-color: #599898; }
+  .navigation a {
+    text-decoration: none;
+    color: #ffffff; }
+  .navigation a:visited {
+    background-color: #599898; }

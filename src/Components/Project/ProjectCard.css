@@ -1,0 +1,42 @@
+.card, .card-title, .card-tags, .card-description {
+  padding: 10px; }
+
+.card {
+  border: 1px solid #d5d5d5;
+  box-shadow: 1px 1px 3px #717171;
+  height: 100%; }
+
+.card-title {
+  font-size: 1.5rem;
+  border-bottom: 1px solid #d5d5d5;
+  margin-bottom: 0.5rem; }
+
+.card-tags {
+  font-size: 0.8rem; }
+  .card-tags .tag {
+    display: inline-block;
+    background-color: #6ebcbc;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    padding: 0.3rem; }
+
+.card-button {
+  padding: 0.35rem;
+  padding-left: 0.7rem;
+  padding-right: 0.7rem;
+  background-color: #5d8c98;
+  border: none;
+  color: #fff;
+  box-shadow: 0px 2px 1px #aaa; }
+  .card-button a {
+    text-decoration: none;
+    color: #ffffff; }
+  .card-button a:visited {
+    background-color: #599898; }
+  .card-button:hover {
+    background-color: #599898; }
+
+li {
+  margin-left: 0.9rem;
+  list-style: square;
+  padding-bottom: 0.5rem; }
