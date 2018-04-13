@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ibrahimpmahmood.github.io",
+  "homepage": ".",
   "dependencies": {
     "node-sass-chokidar": "0.0.3",
     "react": "^15.6.1",
